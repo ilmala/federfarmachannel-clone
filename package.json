@@ -1,0 +1,15 @@
+{
+  "name": "federfarmachannel-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i resources/css/app.css -o ./public/css/app.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.2"
+  }
+}
