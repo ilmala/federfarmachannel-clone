@@ -32,4 +32,5 @@ npm run dev
 /resources
     /css => sorgenti CSS
     /view => template delle pagine html 
+    /dump => dump mysql usato per il lavoro
 ```
